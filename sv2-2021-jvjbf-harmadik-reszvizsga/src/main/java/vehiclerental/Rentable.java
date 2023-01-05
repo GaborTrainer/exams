@@ -2,7 +2,7 @@ package vehiclerental;
 
 import java.time.LocalTime;
 
-public interface Rentable {
+public interface Rentable extends Comparable<Rentable> {
 
     int calculateSumPrice(long minutes);
 
@@ -11,4 +11,9 @@ public interface Rentable {
     void rent(LocalTime time);
 
     void closeRent();
+
+    @Override
+    default int compareTo(Rentable other) {
+        return getRentingTime().compareTo(other.getRentingTime());
+    }
 }
