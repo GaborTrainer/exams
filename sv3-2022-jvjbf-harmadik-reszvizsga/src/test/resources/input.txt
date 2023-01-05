@@ -1,0 +1,16 @@
+2022-09-06;Dinamo Zagreb-Chelsea
+2022-09-06;RB Leipzig-Sahtar
+2022-09-07;Inter-Bayern München
+2022-09-13;Milan-Dinamo Zagreb
+2022-09-14;Real Madrid-RB Leipzig
+2022-09-14;Chelsea-RB Salzburg
+2022-09-13;Plzen-Inter
+2022-09-13;Bayern München-Barcelona
+2022-10-04;Bayern München-Plzen
+2022-10-05;RB Salzburg-Dinamo Zagreb
+2022-10-04;Inter-Barcelona
+2022-10-05;Real Madrid-Sahtar
+2022-10-11;Milan-Chelsea
+2022-10-11;Sahtar-Real Madrid
+2022-10-12;Plzen-Bayern München
+2022-10-26;Barcelona-Bayern München

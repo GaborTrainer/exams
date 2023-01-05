@@ -1,0 +1,11 @@
+Manchester;HJ123 IC 12:30
+Liverpool;JK9872 NORMAL 12:40
+Manchester;HJ111 NORMAL 13:20
+Norwich;NJK12 IC 14:15
+Liverpool;JK112 IC 13:50
+Manchester;HJ876 FAST 18:20
+Liverpool;KL8293 NORMAL 17:12
+Norwich;HJK123 IC 18:30
+Birmingham;BH7891 FAST 16:20
+Liverpool;JK118 IC 17:50
+Birmingham;BH1987 NORMAL 16:14
